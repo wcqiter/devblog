@@ -1,5 +1,6 @@
 # Dev Blog
 
+* [2019-02-26 Auto inject version using vue.js cli environment](https://github.com/wcqiter/devblog/blob/master/blog/2019-02-26_auto-inject-version-with-vue-js-cli.md)
 * [2018-09-26 Vue Cli Build Production Minimize Behaviour](https://github.com/wcqiter/devblog/blob/master/blog/2018-09-26_vue_cli_production.md)
 * [2018-09-11 Simple function to get nest property of object in Javascript](https://github.com/wcqiter/devblog/blob/master/blog/2018-09-11_function_get_nest_property.md)
 * [2018-09-11 File Download Through AJAX request (Laravel/Lumen + Vue.js)](https://github.com/wcqiter/devblog/blob/master/blog/2018-09-11_file_download_through_AJAX.md)
